@@ -1,6 +1,5 @@
-# <center>Hi, I'm Amundsen</center>
----
-<center>A college student at Wuhan University</center>
+# <p align="center">Hi, I'm Amundsen</p>
+<p align="center">A college student at Wuhan University</p>
 
 - 👋 你好, 我是闻人星湘, 我来自中国. 我是一个大学生, 2024年开始就读于[武汉大学](https://www.whu.edu.cn/), 我的专业是临床医学.
 - 👋 Hello, I am Amundsen Severus Rubeus Bjaaland from China. I am a college student who started studying at [Wuhan University](https://www.whu.edu.cn/) in 2024. My major is Clinical Medicine.
